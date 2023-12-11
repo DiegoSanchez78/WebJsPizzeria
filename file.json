@@ -1,0 +1,136 @@
+[   
+   {
+        "id": 1,
+        "producto": "Muzzarella",
+        "precio": 800,
+        "imagen": "./multimedia/muzzarella.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 2,
+        "producto": "Napolitana",
+        "precio": 1000,
+        "imagen": "./multimedia/napolitana.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 3,
+        "producto": "Calabresa",
+        "precio": 1000,
+        "imagen": "./multimedia/calabresa.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 4,
+        "producto": "Fugazetta",
+        "precio": 900,
+        "imagen": "./multimedia/Fugazzeta.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 5,
+        "producto": "JamonyMorron",
+        "precio": 1000,
+        "imagen": "./multimedia/JamonyMorron.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 6,
+        "producto": "Rucula",
+        "precio": 1000,
+        "imagen": "./multimedia/rucula.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 7,
+        "producto": "Empanada de carne",
+        "precio": 150,
+        "imagen": "./multimedia/empanada de carne.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 8,
+        "producto": "Emp jamon y queso",
+        "precio": 150,
+        "imagen": "./multimedia/empanada de jamon y queso.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 9,
+        "producto": "Empanada de verdura",
+        "precio": 150,
+        "imagen": "./multimedia/empanada de verdura.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 10,
+        "producto": "Empanada de humita",
+        "precio": 150,
+        "imagen": "./multimedia/humita.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 11,
+        "producto": "Empanada depollo",
+        "precio": 150,
+        "imagen": "./multimedia/pollo.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 12,
+        "producto": "Emp carne picante",
+        "precio": 150,
+        "imagen": "./multimedia/carnePicante.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 13,
+        "producto": "agua",
+        "precio": 120,
+        "imagen": "./multimedia/agua.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 14,
+        "producto": "coca",
+        "precio": 140,
+        "imagen": "./multimedia/coca.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 15,
+        "producto": "sprite",
+        "precio": 140,
+        "imagen": "./multimedia/sprite.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 16,
+        "producto": "quilmes",
+        "precio": 200,
+        "imagen": "./multimedia/quilmes.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 17,
+        "producto": "brahma",
+        "precio": 190,
+        "imagen": "./multimedia/brahma.jpg",
+        "cantidad": 0
+     },
+     {
+        "id": 18,
+        "producto": "andes rubia",
+        "precio": 220,
+        "imagen": "./multimedia/andes.jpg",
+        "cantidad": 0
+     }
+
+
+
+
+
+
+]
+
+ 

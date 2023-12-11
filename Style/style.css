@@ -1,0 +1,175 @@
+
+
+body {
+    background-image: url(../Multimedia/fondo1.jpg);
+}
+.logo {
+    width: 5rem;
+    border-radius: 3rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.fotos_productos {
+    width: 15rem;
+    height: 15rem;
+}
+.flex_justify {
+    display: flex;
+    justify-content: center;
+}
+.border_cards {
+    border: solid 1px;
+    border-radius: 0rem 0rem 3rem 3rem;   
+}
+.margin_cards {
+    margin: 2rem;
+}
+.formato-card {
+    display: flex;
+    flex-direction: column;
+    margin :1%;
+    box-shadow: 1px 3px 10px 1px black;
+    width: auto;
+    align-items: center;
+    padding: 1%;
+    border-radius: 5px;
+    background-color: white;
+
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(227 243 238);
+    font-family: 'Architects Daughter', cursive;
+    
+}
+nav {
+    background-color: #4a4a4a;
+    border-radius: 50px;
+}
+.don-muzza {
+    color: #e4f121;
+    font-size: 24px;
+    margin: 0% 0% 0% 40%;
+    display: flex;
+    align-items: center;
+}
+#producto p {
+    background-color: #e4f121;
+}
+
+p {
+    display: block;
+}
+.bienvenido {
+    background-color: #4a4a4a;
+    font-size: 25px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    background-color:rgb(146 209 186);
+}
+#producto {
+    display: flex;
+    justify-content: center;
+}
+div ul p {
+    display: flex;
+    justify-content: center;
+}
+
+div ul li button, #total {
+    /* display: flex;
+    justify-content: center; */
+    size: 15%;
+    color: #4a4a4a;
+}
+.estiloBoton {
+    padding: 5px;
+    border-radius: 30px;
+    background-color: #f32e2e;
+    color: aliceblue;
+    /* border: 3px solid black; */
+}
+
+.estiloBotonClickeado {
+    padding: 5px;
+    border-radius: 30px;
+    background-color: #04b51b;
+    color: rgb(206, 216, 224);
+    /* font-size: 1.5rem; */
+    
+}
+
+.estiloNombre {
+    margin: initial;
+    font-size: 15px;
+}
+
+.estiloPrecio {
+    margin: initial;
+}
+
+.btn {
+    padding: 18px 0px;
+    /* margin: 75px 0px 0px 0px; */
+    font-family: 'Architects Daughter', cursive;
+}
+.btn2 {
+    padding: 18px 0px;
+    font-family: 'Architects Daughter', cursive;
+}
+.pEstilo {
+    padding: 0% 1% 0% 38%;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
+    margin: 11px;
+}
+.btnEliminar {
+    margin: 0% 0% 0% 43%;
+    font-family: 'Architects Daughter', cursive;
+}
+.btn div{
+    color: #410000;
+    font-family: 'Architects Daughter', cursive;
+    margin: -11% 1% 0% 0%;
+    font-size: 25px;
+}
+
+h1,h2,h3,h4,h4,p , li , button{
+    font-family: 'Architects Daughter', cursive;
+}
+button {
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #f32e2e;
+    color: aliceblue;
+}
+
+li ,div p{
+    font-size: 19px;
+}
+
+footer {
+    justify-content: center;
+    font-size: 30px;
+}
+.btnCarrito-fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+  }
